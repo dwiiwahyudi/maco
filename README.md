@@ -1,7 +1,7 @@
 Installation
 
 ```
-first extract node_module.zip after clone then
+$ first extract node_module.zip after clone then
 $ git clone https://github.com/dwiiwahyudi/maco.git
 $ cd instagram-tools
 $ node index.js
