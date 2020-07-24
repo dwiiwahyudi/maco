@@ -1,13 +1,4 @@
-# ![Image](Instagram2016_white-(64px).png) Node.JS Instagram Tools
-
-
-Original author of this project is man who say himself as "CCOCOT".
-He deleted his own repository, then several members of SGBTeam are taking care of development and new features.
-And this is collection of several developments that have been carried out so far.
-
-----
-
-### Installation
+Installation
 
 ```
 $ git clone https://github.com/masokky/instagram-tools.git
@@ -15,9 +6,9 @@ $ cd instagram-tools
 $ node index.js
 ```
 
-----
 
-### Features
+
+Features
 
 * Bot Like Timeline
 * Follow Followers Target by People
@@ -38,12 +29,3 @@ $ node index.js
 * Unfollow All Following
 * Delete All Media
 
-----
-
-### Thanks to
-
-* CODE BY CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
-* FIXING & TESTING BY SYNTAX (@officialputu_id)
-* CCOCOT.CO | BC0DE.NET | NAONLAH.NET | WingkoColi
-* SGB TEAM REBORN | Zerobyte.id | ccocot@bc0de.net
-* RMT by Mas Okky (@masokky_)
