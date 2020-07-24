@@ -1,7 +1,7 @@
 Installation
 
 ```
-$ git clone https://github.com/masokky/instagram-tools.git
+$ git clone https://github.com/dwiiwahyudi/maco.git
 $ cd instagram-tools
 $ node index.js
 ```
